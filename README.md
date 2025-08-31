@@ -1,2 +1,0 @@
-# jupyter-odevlerim
-Python alıştırmaları
